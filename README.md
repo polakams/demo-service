@@ -109,4 +109,4 @@ Stop the other process, or temporarily change `server.port` in `src/main/resourc
 ./mvnw test
 ```
 
-Good Luck with the Project!
+Good Luck Everyone with the Project!
